@@ -11,6 +11,6 @@
 <br>
 
 **<ins>Content</ins>**
-* Download Stock Data from Yahoo Finance
+* Import Stock Data from Yahoo Finance
 * Candlestick Chart
 * Technical & Statistical Analysis e.g. MACD, RSI, EMA
